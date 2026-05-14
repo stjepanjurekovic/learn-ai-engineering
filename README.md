@@ -117,6 +117,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 - [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
 - [AI Agents in Action, Second Edition - Book](https://www.manning.com/books/ai-agents-in-action-second-edition)
+- [Building Agentic Applications with CrewAI and MCP - Book](https://www.manning.com/books/building-agentic-applications-with-crewai-and-mcp)
 
 ## Model Context Protocol (MCP)
 - [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
